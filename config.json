@@ -5,7 +5,7 @@
       "port": 8388,
       "protocol": "shadowsocks",
       "settings": {
-        "method": "aes-256-cfb",
+        "method": "AES-128-GCM",
         "password": "M123",
         "network": "tcp,udp"
       }
