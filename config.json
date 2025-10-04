@@ -2,7 +2,7 @@
   "log": { "loglevel": "info" },
   "inbounds": [
     {
-      "port": 8388,
+      "port": 8387,
       "protocol": "shadowsocks",
       "settings": {
         "method": "aes-256-gcm",
